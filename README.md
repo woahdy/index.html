@@ -3,7 +3,7 @@
 - www.woahbit.com
 - www.woahdy.com
 - www.guillotrise.com
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///Users/codyguillot/Pictures/Photos%20Library.photoslibrary/private/com.apple.Photos/ExternalEditSessions/E290F769-7320-4C92-9ACB-4BA3DC5AA738/7535CCB1-5137-4906-9A20-0475BE525084.jpeg" width="892" height="892">
 Being a 23-year-old musician From New Orleans I have obtained an obsession with art
 & design, Making something out of nothing & knowing it will Last forever is why I do
 What I do. I've fallen in love with the process of structuring a Song, 
